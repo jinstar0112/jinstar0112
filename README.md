@@ -8,28 +8,18 @@ If you're impressed by my elevator pitch, you can talk to me about beer, footbal
 
 `HTML5` `CSS` `React💙` `Vue💚` `JS💛` `NodeJS` `NestJS♥️` `ReactNative📱` `AWS⛅️` `Terraform🛠` `Flutter🎯` `Svg animation💃🏻` `Webpack📦` `Redux⚛` `TypeScript💙` `Express🌱` `Next▲` `Docker🐳` `GraphQL🕸` `MongoDB🌱` `SCSS💗` `PostgreSQL🐘`
 
-**Read some of the stuff I've written**
+##### 📫 feel free to send a mail to [gabrielobi.of@gmail.com](mailto:gabrielobi.of@gmail.com)
 
-1. [Design Patterns: Chain of Responsibility ⛓](https://shubhamzanwar.com/blog/design-patterns-chain-of-responsibility/)
-2. [Design Patterns: Flyweight Pattern ⚖️](https://shubhamzanwar.com/blog/design-patterns-flyweight-pattern/)
-3. [Developer workflow with GitHub CLI 👨🏻‍💻](https://shubhamzanwar.com/blog/your-daily-developer-workflow-with-git-hub-cli/)
-4. [Electron alternative: Announcing vue-nodegui 🚀💚](https://shubhamzanwar.com/blog/electron-alternative-announcing-vue-nodegui/)
+<!--
+[![Ickynavigator's GitHub stats](https://github-readme-stats.vercel.app/api?username=ickynavigator&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-Read more on [my blog](https://shubhamzanwar.com/blog) and [medium](https://medium.com/@zanwar.shubham)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ickynavigator&hide=html&langs_count=6&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-**Checkout some of my talks**
+[![Ickynavigator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ickynavigator&langs_count=5&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-1. [Vue nodegui introduction talk](https://shubhamzanwar.com/vue-nodegui-talk/)
-2. [React state management](https://shubhamzanwar.com/pizza-ordering-service/#/)
-
-**Find me elsewhere on the web**
-
-1. Personal website🌐: [shubhamzanwar.com](https://shubhamzanwar.com)
-2. Twitter🐦: [@szanwar22](https://twitter.com/szanwar22)
-3. Linkedin👔: [shubham zanwar](https://www.linkedin.com/in/zanwarshubham/)
-4. Instagram🌄: [shubhamzanwar](https://instagram.com/shubhamzanwar)
-5. Email💌: [zanwar.shubham@gmail.com](mailto://zanwar.shubham@gmail.com)
-6. Dev⬛️: [shubhamzanwar](https://dev.to/shubhamzanwar)
-7. Ph No📞:
+[![wakatime](https://wakatime.com/badge/user/9ab30b92-1dfd-42fa-b954-60c7e3b0360b.svg)](https://wakatime.com/@9ab30b92-1dfd-42fa-b954-60c7e3b0360b)
 
 PS: If you can't already tell my reading this page, I love emojis 🤩
