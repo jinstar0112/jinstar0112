@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shubham, and I'm an awesome full stack developer. What it means is that I'm great at solving problems by reading other people's opinions online and straight-up copy-pasting code from stack overflow (Sorry, not sorry 😬)
+I'm an awesome full stack developer. What it means is that I'm great at solving problems by reading other people's opinions online and straight-up copy-pasting code from stack overflow (Sorry, not sorry 😬)
 
 Outside work, I create and contribute to OSS. I think it's great fun🤘🏽. I also share my tech opinions through blog posts and by (infrequently) speaking at events and meetups 🎤
 
